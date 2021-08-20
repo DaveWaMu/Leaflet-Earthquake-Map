@@ -1,5 +1,5 @@
 # Files containing passwords
-config.js
+js/config.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
